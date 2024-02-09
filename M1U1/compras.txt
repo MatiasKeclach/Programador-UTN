@@ -9,4 +9,3 @@ naranjas
 cerveza
 vino
 comprar caldos
-comprar vasos descartables
