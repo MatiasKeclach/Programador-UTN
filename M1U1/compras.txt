@@ -4,3 +4,7 @@ limpieza
 queso
 fiambre
 pan
+uvas
+naranjas
+cerveza
+vino
