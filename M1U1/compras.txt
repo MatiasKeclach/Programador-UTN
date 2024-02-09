@@ -1,0 +1,6 @@
+frutas
+carne
+limpieza
+queso
+fiambre
+pan
