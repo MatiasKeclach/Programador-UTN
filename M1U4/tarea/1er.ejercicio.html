@@ -8,8 +8,8 @@
 <body>
 
 <script>
-    var distancia = prompt("Ingrese la distancia (en metros) para determinar el medio de transporte:");
-    var resultado;
+    let distancia = prompt("Ingrese la distancia (en metros) para determinar el medio de transporte:");
+    let resultado;
 
     if (distancia >= 0 && distancia <= 1000) {
         resultado = 'pie';
@@ -22,8 +22,9 @@
     } else {
         resultado = 'avión';
     }
-
-    alert('El medio de transporte apropiado es: ' + resultado);
+    
+    document.write(`El medio de transporte es ${resultado}`);
+    
 </script>
 
 </body>
